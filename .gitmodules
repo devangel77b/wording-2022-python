@@ -1,3 +1,6 @@
 [submodule "english-words"]
 	path = english-words
 	url = https://github.com/dwyl/english-words
+[submodule "Pi"]
+	path = Pi
+	url = https://github.com/eneko/Pi
